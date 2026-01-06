@@ -1,0 +1,2 @@
+worker_image: usbipiceproject/usbipice-worker:all
+control_image: usbipiceproject/usbipice-worker:all
