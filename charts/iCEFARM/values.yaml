@@ -1,2 +1,2 @@
-worker_image: usbipiceproject/usbipice-worker:all
-control_image: usbipiceproject/usbipice-worker:all
+worker_image: evolvablehardware/icefarm:all
+control_image: evolvablehardware/icefarm:all
