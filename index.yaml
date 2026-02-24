@@ -3,6 +3,16 @@ entries:
   iCEFARM:
   - apiVersion: v2
     appVersion: 1.0.1
+    created: "2026-02-24T02:38:05.588159295Z"
+    description: A Helm chart for Kubernetes
+    digest: a4b65f44d0cbda7800573f2d2f45a46b1a9f94bca2ef57397bdb8f32a0a1a7ac
+    name: iCEFARM
+    type: application
+    urls:
+    - https://github.com/evolvablehardware/iCEFARM-helm/releases/download/iCEFARM-0.1.11/iCEFARM-0.1.11.tgz
+    version: 0.1.11
+  - apiVersion: v2
+    appVersion: 1.0.1
     created: "2026-01-06T00:22:17.86706174Z"
     description: A Helm chart for Kubernetes
     digest: 9423fcf75d5895e28caff2aee4676cf0868ba98ed4d250515db708b64f3442b8
@@ -91,4 +101,4 @@ entries:
     urls:
     - https://github.com/heiljj/iCEFARM-helm/releases/download/iCEFARM-0.1.2/iCEFARM-0.1.2.tgz
     version: 0.1.2
-generated: "2026-01-06T00:22:17.867128431Z"
+generated: "2026-02-24T02:38:05.588208907Z"
